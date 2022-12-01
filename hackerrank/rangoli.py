@@ -12,4 +12,4 @@ def print_rangoli(size):
     print('\n'.join(L[:0:-1]+L))
 if __name__ == '__main__':
     n = int(input())
-    print_rangoli(n)
+    print_rangoli(n)::
